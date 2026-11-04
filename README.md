@@ -64,3 +64,5 @@ Code from my professional roles is private, so here is what that work covers.
 ## 📬 Get in Touch
 
 - **Email:** <parthgera49@gmail.com>
+- **Twitter** <https://x.com/GeraParthh>
+- **Telegram** <@xpartheth>
