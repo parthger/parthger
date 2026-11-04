@@ -6,7 +6,7 @@ I build data pipelines that turn raw on-chain activity into reliable, analyst-re
 
 Currently a Data Engineer at **Magpie XYZ** (omnichain DeFi protocol), tracking **$50M+ in assets** across Arbitrum, BNB Chain and Ethereum at **99.9% accuracy**.
 
-📍Bannglore, India · 🌍 Open to remote roles globally
+📍Banglore, India · 🌍 Open to remote roles globally
 
 ---
 
@@ -65,4 +65,4 @@ Code from my professional roles is private, so here is what that work covers.
 
 - **Email:** <parthgera49@gmail.com>
 - **Twitter** <https://x.com/GeraParthh>
-- **Telegram** <@xpartheth>
+- **Telegram** -@xpartheth
